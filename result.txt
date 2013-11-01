@@ -1,0 +1,1012 @@
+
+The NO. 1 answer
+row	column
+0:	0
+1:	4
+2:	7
+3:	5
+4:	2
+5:	6
+6:	1
+7:	3
+
+The NO. 2 answer
+row	column
+0:	0
+1:	5
+2:	7
+3:	2
+4:	6
+5:	3
+6:	1
+7:	4
+
+The NO. 3 answer
+row	column
+0:	0
+1:	6
+2:	3
+3:	5
+4:	7
+5:	1
+6:	4
+7:	2
+
+The NO. 4 answer
+row	column
+0:	0
+1:	6
+2:	4
+3:	7
+4:	1
+5:	3
+6:	5
+7:	2
+
+The NO. 5 answer
+row	column
+0:	1
+1:	3
+2:	5
+3:	7
+4:	2
+5:	0
+6:	6
+7:	4
+
+The NO. 6 answer
+row	column
+0:	1
+1:	4
+2:	6
+3:	0
+4:	2
+5:	7
+6:	5
+7:	3
+
+The NO. 7 answer
+row	column
+0:	1
+1:	4
+2:	6
+3:	3
+4:	0
+5:	7
+6:	5
+7:	2
+
+The NO. 8 answer
+row	column
+0:	1
+1:	5
+2:	0
+3:	6
+4:	3
+5:	7
+6:	2
+7:	4
+
+The NO. 9 answer
+row	column
+0:	1
+1:	5
+2:	7
+3:	2
+4:	0
+5:	3
+6:	6
+7:	4
+
+The NO. 10 answer
+row	column
+0:	1
+1:	6
+2:	2
+3:	5
+4:	7
+5:	4
+6:	0
+7:	3
+
+The NO. 11 answer
+row	column
+0:	1
+1:	6
+2:	4
+3:	7
+4:	0
+5:	3
+6:	5
+7:	2
+
+The NO. 12 answer
+row	column
+0:	1
+1:	7
+2:	5
+3:	0
+4:	2
+5:	4
+6:	6
+7:	3
+
+The NO. 13 answer
+row	column
+0:	2
+1:	0
+2:	6
+3:	4
+4:	7
+5:	1
+6:	3
+7:	5
+
+The NO. 14 answer
+row	column
+0:	2
+1:	4
+2:	1
+3:	7
+4:	0
+5:	6
+6:	3
+7:	5
+
+The NO. 15 answer
+row	column
+0:	2
+1:	4
+2:	1
+3:	7
+4:	5
+5:	3
+6:	6
+7:	0
+
+The NO. 16 answer
+row	column
+0:	2
+1:	4
+2:	6
+3:	0
+4:	3
+5:	1
+6:	7
+7:	5
+
+The NO. 17 answer
+row	column
+0:	2
+1:	4
+2:	7
+3:	3
+4:	0
+5:	6
+6:	1
+7:	5
+
+The NO. 18 answer
+row	column
+0:	2
+1:	5
+2:	1
+3:	4
+4:	7
+5:	0
+6:	6
+7:	3
+
+The NO. 19 answer
+row	column
+0:	2
+1:	5
+2:	1
+3:	6
+4:	0
+5:	3
+6:	7
+7:	4
+
+The NO. 20 answer
+row	column
+0:	2
+1:	5
+2:	1
+3:	6
+4:	4
+5:	0
+6:	7
+7:	3
+
+The NO. 21 answer
+row	column
+0:	2
+1:	5
+2:	3
+3:	0
+4:	7
+5:	4
+6:	6
+7:	1
+
+The NO. 22 answer
+row	column
+0:	2
+1:	5
+2:	3
+3:	1
+4:	7
+5:	4
+6:	6
+7:	0
+
+The NO. 23 answer
+row	column
+0:	2
+1:	5
+2:	7
+3:	0
+4:	3
+5:	6
+6:	4
+7:	1
+
+The NO. 24 answer
+row	column
+0:	2
+1:	5
+2:	7
+3:	0
+4:	4
+5:	6
+6:	1
+7:	3
+
+The NO. 25 answer
+row	column
+0:	2
+1:	5
+2:	7
+3:	1
+4:	3
+5:	0
+6:	6
+7:	4
+
+The NO. 26 answer
+row	column
+0:	2
+1:	6
+2:	1
+3:	7
+4:	4
+5:	0
+6:	3
+7:	5
+
+The NO. 27 answer
+row	column
+0:	2
+1:	6
+2:	1
+3:	7
+4:	5
+5:	3
+6:	0
+7:	4
+
+The NO. 28 answer
+row	column
+0:	2
+1:	7
+2:	3
+3:	6
+4:	0
+5:	5
+6:	1
+7:	4
+
+The NO. 29 answer
+row	column
+0:	3
+1:	0
+2:	4
+3:	7
+4:	1
+5:	6
+6:	2
+7:	5
+
+The NO. 30 answer
+row	column
+0:	3
+1:	0
+2:	4
+3:	7
+4:	5
+5:	2
+6:	6
+7:	1
+
+The NO. 31 answer
+row	column
+0:	3
+1:	1
+2:	4
+3:	7
+4:	5
+5:	0
+6:	2
+7:	6
+
+The NO. 32 answer
+row	column
+0:	3
+1:	1
+2:	6
+3:	2
+4:	5
+5:	7
+6:	0
+7:	4
+
+The NO. 33 answer
+row	column
+0:	3
+1:	1
+2:	6
+3:	2
+4:	5
+5:	7
+6:	4
+7:	0
+
+The NO. 34 answer
+row	column
+0:	3
+1:	1
+2:	6
+3:	4
+4:	0
+5:	7
+6:	5
+7:	2
+
+The NO. 35 answer
+row	column
+0:	3
+1:	1
+2:	7
+3:	4
+4:	6
+5:	0
+6:	2
+7:	5
+
+The NO. 36 answer
+row	column
+0:	3
+1:	1
+2:	7
+3:	5
+4:	0
+5:	2
+6:	4
+7:	6
+
+The NO. 37 answer
+row	column
+0:	3
+1:	5
+2:	0
+3:	4
+4:	1
+5:	7
+6:	2
+7:	6
+
+The NO. 38 answer
+row	column
+0:	3
+1:	5
+2:	7
+3:	1
+4:	6
+5:	0
+6:	2
+7:	4
+
+The NO. 39 answer
+row	column
+0:	3
+1:	5
+2:	7
+3:	2
+4:	0
+5:	6
+6:	4
+7:	1
+
+The NO. 40 answer
+row	column
+0:	3
+1:	6
+2:	0
+3:	7
+4:	4
+5:	1
+6:	5
+7:	2
+
+The NO. 41 answer
+row	column
+0:	3
+1:	6
+2:	2
+3:	7
+4:	1
+5:	4
+6:	0
+7:	5
+
+The NO. 42 answer
+row	column
+0:	3
+1:	6
+2:	4
+3:	1
+4:	5
+5:	0
+6:	2
+7:	7
+
+The NO. 43 answer
+row	column
+0:	3
+1:	6
+2:	4
+3:	2
+4:	0
+5:	5
+6:	7
+7:	1
+
+The NO. 44 answer
+row	column
+0:	3
+1:	7
+2:	0
+3:	2
+4:	5
+5:	1
+6:	6
+7:	4
+
+The NO. 45 answer
+row	column
+0:	3
+1:	7
+2:	0
+3:	4
+4:	6
+5:	1
+6:	5
+7:	2
+
+The NO. 46 answer
+row	column
+0:	3
+1:	7
+2:	4
+3:	2
+4:	0
+5:	6
+6:	1
+7:	5
+
+The NO. 47 answer
+row	column
+0:	4
+1:	0
+2:	3
+3:	5
+4:	7
+5:	1
+6:	6
+7:	2
+
+The NO. 48 answer
+row	column
+0:	4
+1:	0
+2:	7
+3:	3
+4:	1
+5:	6
+6:	2
+7:	5
+
+The NO. 49 answer
+row	column
+0:	4
+1:	0
+2:	7
+3:	5
+4:	2
+5:	6
+6:	1
+7:	3
+
+The NO. 50 answer
+row	column
+0:	4
+1:	1
+2:	3
+3:	5
+4:	7
+5:	2
+6:	0
+7:	6
+
+The NO. 51 answer
+row	column
+0:	4
+1:	1
+2:	3
+3:	6
+4:	2
+5:	7
+6:	5
+7:	0
+
+The NO. 52 answer
+row	column
+0:	4
+1:	1
+2:	5
+3:	0
+4:	6
+5:	3
+6:	7
+7:	2
+
+The NO. 53 answer
+row	column
+0:	4
+1:	1
+2:	7
+3:	0
+4:	3
+5:	6
+6:	2
+7:	5
+
+The NO. 54 answer
+row	column
+0:	4
+1:	2
+2:	0
+3:	5
+4:	7
+5:	1
+6:	3
+7:	6
+
+The NO. 55 answer
+row	column
+0:	4
+1:	2
+2:	0
+3:	6
+4:	1
+5:	7
+6:	5
+7:	3
+
+The NO. 56 answer
+row	column
+0:	4
+1:	2
+2:	7
+3:	3
+4:	6
+5:	0
+6:	5
+7:	1
+
+The NO. 57 answer
+row	column
+0:	4
+1:	6
+2:	0
+3:	2
+4:	7
+5:	5
+6:	3
+7:	1
+
+The NO. 58 answer
+row	column
+0:	4
+1:	6
+2:	0
+3:	3
+4:	1
+5:	7
+6:	5
+7:	2
+
+The NO. 59 answer
+row	column
+0:	4
+1:	6
+2:	1
+3:	3
+4:	7
+5:	0
+6:	2
+7:	5
+
+The NO. 60 answer
+row	column
+0:	4
+1:	6
+2:	1
+3:	5
+4:	2
+5:	0
+6:	3
+7:	7
+
+The NO. 61 answer
+row	column
+0:	4
+1:	6
+2:	1
+3:	5
+4:	2
+5:	0
+6:	7
+7:	3
+
+The NO. 62 answer
+row	column
+0:	4
+1:	6
+2:	3
+3:	0
+4:	2
+5:	7
+6:	5
+7:	1
+
+The NO. 63 answer
+row	column
+0:	4
+1:	7
+2:	3
+3:	0
+4:	2
+5:	5
+6:	1
+7:	6
+
+The NO. 64 answer
+row	column
+0:	4
+1:	7
+2:	3
+3:	0
+4:	6
+5:	1
+6:	5
+7:	2
+
+The NO. 65 answer
+row	column
+0:	5
+1:	0
+2:	4
+3:	1
+4:	7
+5:	2
+6:	6
+7:	3
+
+The NO. 66 answer
+row	column
+0:	5
+1:	1
+2:	6
+3:	0
+4:	2
+5:	4
+6:	7
+7:	3
+
+The NO. 67 answer
+row	column
+0:	5
+1:	1
+2:	6
+3:	0
+4:	3
+5:	7
+6:	4
+7:	2
+
+The NO. 68 answer
+row	column
+0:	5
+1:	2
+2:	0
+3:	6
+4:	4
+5:	7
+6:	1
+7:	3
+
+The NO. 69 answer
+row	column
+0:	5
+1:	2
+2:	0
+3:	7
+4:	3
+5:	1
+6:	6
+7:	4
+
+The NO. 70 answer
+row	column
+0:	5
+1:	2
+2:	0
+3:	7
+4:	4
+5:	1
+6:	3
+7:	6
+
+The NO. 71 answer
+row	column
+0:	5
+1:	2
+2:	4
+3:	6
+4:	0
+5:	3
+6:	1
+7:	7
+
+The NO. 72 answer
+row	column
+0:	5
+1:	2
+2:	4
+3:	7
+4:	0
+5:	3
+6:	1
+7:	6
+
+The NO. 73 answer
+row	column
+0:	5
+1:	2
+2:	6
+3:	1
+4:	3
+5:	7
+6:	0
+7:	4
+
+The NO. 74 answer
+row	column
+0:	5
+1:	2
+2:	6
+3:	1
+4:	7
+5:	4
+6:	0
+7:	3
+
+The NO. 75 answer
+row	column
+0:	5
+1:	2
+2:	6
+3:	3
+4:	0
+5:	7
+6:	1
+7:	4
+
+The NO. 76 answer
+row	column
+0:	5
+1:	3
+2:	0
+3:	4
+4:	7
+5:	1
+6:	6
+7:	2
+
+The NO. 77 answer
+row	column
+0:	5
+1:	3
+2:	1
+3:	7
+4:	4
+5:	6
+6:	0
+7:	2
+
+The NO. 78 answer
+row	column
+0:	5
+1:	3
+2:	6
+3:	0
+4:	2
+5:	4
+6:	1
+7:	7
+
+The NO. 79 answer
+row	column
+0:	5
+1:	3
+2:	6
+3:	0
+4:	7
+5:	1
+6:	4
+7:	2
+
+The NO. 80 answer
+row	column
+0:	5
+1:	7
+2:	1
+3:	3
+4:	0
+5:	6
+6:	4
+7:	2
+
+The NO. 81 answer
+row	column
+0:	6
+1:	0
+2:	2
+3:	7
+4:	5
+5:	3
+6:	1
+7:	4
+
+The NO. 82 answer
+row	column
+0:	6
+1:	1
+2:	3
+3:	0
+4:	7
+5:	4
+6:	2
+7:	5
+
+The NO. 83 answer
+row	column
+0:	6
+1:	1
+2:	5
+3:	2
+4:	0
+5:	3
+6:	7
+7:	4
+
+The NO. 84 answer
+row	column
+0:	6
+1:	2
+2:	0
+3:	5
+4:	7
+5:	4
+6:	1
+7:	3
+
+The NO. 85 answer
+row	column
+0:	6
+1:	2
+2:	7
+3:	1
+4:	4
+5:	0
+6:	5
+7:	3
+
+The NO. 86 answer
+row	column
+0:	6
+1:	3
+2:	1
+3:	4
+4:	7
+5:	0
+6:	2
+7:	5
+
+The NO. 87 answer
+row	column
+0:	6
+1:	3
+2:	1
+3:	7
+4:	5
+5:	0
+6:	2
+7:	4
+
+The NO. 88 answer
+row	column
+0:	6
+1:	4
+2:	2
+3:	0
+4:	5
+5:	7
+6:	1
+7:	3
+
+The NO. 89 answer
+row	column
+0:	7
+1:	1
+2:	3
+3:	0
+4:	6
+5:	4
+6:	2
+7:	5
+
+The NO. 90 answer
+row	column
+0:	7
+1:	1
+2:	4
+3:	2
+4:	0
+5:	6
+6:	3
+7:	5
+
+The NO. 91 answer
+row	column
+0:	7
+1:	2
+2:	0
+3:	5
+4:	1
+5:	4
+6:	6
+7:	3
+
+The NO. 92 answer
+row	column
+0:	7
+1:	3
+2:	0
+3:	2
+4:	5
+5:	1
+6:	6
+7:	4
